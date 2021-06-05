@@ -1,0 +1,126 @@
+* {
+    font-family: "Raleway";
+  }
+  @font-face {
+    font-family: Raleway-Bold;
+    src: url(static/Raleway-Bold.ttf);
+  }
+  @font-face {
+    font-family: Raleway-black;
+    src: url(static/Raleway-Black.ttf);
+  }
+  @font-face {
+    font-family: Raleway-medium;
+    src: url(static/Raleway-Medium.ttf);
+  }
+  .font-family-black {
+    font-family: Raleway-black !important;
+  }
+  .font-family-Bold {
+    font-family: Raleway-Bold !important;
+  }
+  .font-family-medium {
+    font-family: Raleway-medium !important;
+  }
+  
+  .searchborder {
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 2px solid lightgray;
+    border-bottom: 3px solid lightgray;
+    border-radius: 8px;
+  }
+  .searchborder::placeholder {
+    font-weight: bold;
+  }
+  .navsearchborder {
+    border: 2px solid #d2d2d2 !important;
+    border-radius: 0px 0px 0px 10px !important;
+    border-top: none !important;
+    border-right: none !important;
+    height: 35px !important;
+  }
+  .navplaceholderheight {
+    height: 28px !important;
+  }
+  .buttommargin {
+    margin-left: -25px;
+  }
+  .buttonhover:hover {
+    background-color: royalblue;
+    color: white;
+  }
+  .navlinkborder {
+    text-decoration: none;
+  }
+  .fontsize15px {
+    font-size: 13px !important;
+  }
+  .texthover:hover {
+    color: black !important;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .bottomline {
+    border-width: 2px !important;
+    color: #cacaca !important;
+  }
+  .px45 {
+    padding-left: 45px;
+    padding-right: 50px;
+  }
+  .px19 {
+    padding-left: 19px !important;
+  }
+  .margintop123px{
+    margin-top: 123px !important;
+  }
+  .margintop75px{
+    margin-top: 75px !important;
+  }
+  .margintop50px{
+    margin-top: 50px !important;
+  }
+  .margintop45px{
+    margin-top: 45px;
+  }
+  .margintop93px{
+    margin-top:93px;
+  }
+  .margintop117px{
+    margin-top:117px;
+  }
+  .bgboaterfree{
+    background-color: #f2f7ff !important;
+    border-radius: 22px;
+  }
+  .bgboaterbasic{
+    background-color: #e6efff !important;
+    border-radius: 22px;
+  }
+  .bgboaterpro{
+    background-color: #d9e7ff !important;
+    border-radius: 22px;
+  }
+  .bgbusinessfree{
+    background-color: #f7fff2 !important;
+    border-radius: 22px;
+  }
+  .bgbusinessbasic{
+    background-color: #f0ffe6 !important;
+    border-radius: 22px;
+  }
+  .bgbusinesspro{
+    background-color: #e8ffd9 !important;
+    border-radius: 22px;
+  }
+  .lineheightstyle{
+    font-size: small;
+    line-height: 25px;
+  }
+  .cardheadsize{
+    font-size: 25px !important;
+  }
+  .margin-77px{
+    margin-top: -77px !important;
+  }
